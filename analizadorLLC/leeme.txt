@@ -1,0 +1,11 @@
+para compilar :
+
+make
+
+una vez que compila:
+
+./LLC
+
+al finalizar :
+
+make clean
